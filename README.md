@@ -5,7 +5,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F72C&width=435&lines=I+am+junior+android+developer" alt="Typing SVG" /></a></h3>
 
 - 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose/tutorial)
-- 💞️ I’m looking to collaborate and work
+- 💞️ I’m looking for collaborate and work
 - 📫 How to reach me <a href="mailto:m.y.naletov@ya.ru">m.y.naletov@ya.ru</a>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -18,7 +18,7 @@
 <a href="https://t.me/Max_NY"> <img src='https://user-images.githubusercontent.com/103441009/205928489-ae6c5d7a-4b72-4906-aebe-5b1b38c67b33.svg' alt='Хфбр' width="40" height="40"/>
 </p> 
 
-<h2 align="center">Statistics on GitHab:</h2>
+<h2 align="center">Statistics on GitHub:</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-nmy&show_icons=true&locale=en&layout=compact" alt="im-nmy" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-nmy" alt="im-nmy" /></a> </p>
